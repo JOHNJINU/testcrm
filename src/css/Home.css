@@ -1,0 +1,25 @@
+.titleHome{
+    margin-top: 8vh;
+    text-align: center;
+}
+.itemContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3vw auto 6vh;
+    column-gap: 3vw;
+    row-gap: 2vw;
+    width: 96vw;
+}
+.itemValuesContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.card{
+    width: 28vw;
+}
+
+.buttonMore{
+    margin-top: 25px;
+}

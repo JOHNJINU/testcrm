@@ -1,0 +1,9 @@
+.loginFieldsContainerForm > input{
+    display: block;
+    margin: 20px auto;
+}
+
+.loginFieldsContainer{
+    margin: 20px auto;
+    text-align: center;
+}

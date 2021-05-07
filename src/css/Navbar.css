@@ -1,0 +1,16 @@
+.productName{
+    margin: 20px 0px 0px 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navBarCompanyLogo{
+    margin-top: 15px;
+}
+
+.logoutButton{
+    text-align: right;
+    position: absolute;
+    top: 25px;
+    right: 10vw;
+}

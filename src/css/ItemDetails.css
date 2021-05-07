@@ -1,0 +1,8 @@
+.itemDetailContainer h3{
+    margin-bottom: 30px;
+}
+.itemDetailContainer > span{
+    display: block;
+    margin-top: 10px;
+    font-size: 1.25rem;
+}
