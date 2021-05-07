@@ -22,7 +22,7 @@ class Navbar extends Component{
     <div>
       <div className="container">
          <Link to='/' className="offers_link_header navbar-brand" > <img className="navBarCompanyLogo" src={icCompanyLogo} /> </Link>
-         <span className="productName">Cubix CRM 2021</span>
+         <span className="productName">Cubix CRM</span>
       </div>
       <hr></hr>
     </div>
